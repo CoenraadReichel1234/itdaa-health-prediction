@@ -13,7 +13,7 @@ import numpy as np
 # Load the trained model
 # Code For when not deployed model = pickle.load(open('C:/Users/Coenraad Reichel/OneDrive - Eduvos/Documents/Eduvos Honours/ITDAA4-12/Project/Final Code/Trained_model.sav', 'rb'))
 
-model = pickle.load(open('https://github.com/CoenraadReichel1234/itdaa-health-prediction/blob/main/Trained_model.sav', 'rb'))
+model = pickle.load(open('Trained_model.sav', 'rb'))
 
 def heart_predict(patient_data):
     
