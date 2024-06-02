@@ -6,9 +6,6 @@ Created on Fri May 24 10:14:50 2024
 """
 
 import streamlit as st
-import pandas as pd
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.preprocessing import MinMaxScaler
 import pickle
 import numpy as np
 
