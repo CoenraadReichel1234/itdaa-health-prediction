@@ -1,4 +1,4 @@
 streamlit
 pickle-mixin
 numpy
-https://github.com/CoenraadReichel1234/itdaa-health-prediction/blob/main/Trained_model.sav
+
