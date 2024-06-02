@@ -34,7 +34,9 @@ def heart_predict(patient_data):
 def main():
     
     st.set_page_config(page_title="Heart Checks", page_icon=":cold_sweat:", layout="wide")
+    st.title("ITDAA Code Assignment")
     st.title("Heart Prediction System")
+
 
 
 
